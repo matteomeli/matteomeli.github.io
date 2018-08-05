@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/matteomeli/matteomeli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Matteo, I am from Italy, born and raised in Rome, now living in Brighton in England's south-east coast. Most of the time I am a videogame programmer.
 
-### Markdown
+Since very young I have always found computers fascinating, videogames in particular, wondering about who were the creators of those incredibly beautiful pieces of art like Tetris, Pong, Prince of Persia, Donkey Kong, Street Fighter, Metal Gear Solid and the list goes on and on. Hence, I enrolled in a Computer Engineering university course in the University of Roma Tre, where I obtained a bachelor and a Master of Science degrees, specialising in Graphic Rendering. During that time I had a fantastic experience studying for one year in the University of Glasgow as part of my Erasmus exchange scolarship. Afterwards, with the objective of focusing on videogames, I have applied and won a scolarship for a MSc in Computer Games Technology in Abertay University in Dundee, where I graduated with distinction.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+After finishing my studies, I was lucky enough to land a job in NaturalMotion's Boss Alien studio in Brighton, and I could not have entered the game industry in a better place. At Boss Alien I was part of the development team behind hit mobile games such as CSR Racing and CSR Classics, as well as part of other yet unreleased projects. Curently, I work at King London studio, where I have been involved with different projects and worked in some of their multimillion dollars live titles, like Farm Heroes and Farm Heroes Super Saga, as well as participating in the development of shared libraries and engine middleware solving common technical challenges and running functional programming courses and workshops.
 
-```markdown
-Syntax highlighted code block
+When I am not creating or playing videogames, researching functional programming or working on my own projects, you can find me kitesurfing in Camber Sands, riding my Triumph Bonneville T120 or travelling somewhere around the world! Or eating pizza.
 
-# Header 1
-## Header 2
-### Header 3
+## Personal Projects
 
-- Bulleted
-- List
+* Glue, a functional programming library for Scala
 
-1. Numbered
-2. List
+* Exploring blockchain technology in Scala
 
-**Bold** and _Italic_ and `Code` text
+* Dynamic Lighting research thesis
 
-[Link](url) and ![Image](src)
-```
+* Reeboot: Team project at Abertay University using SOny's Phyre Engine for PS3
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Physics and Rendering uni project
 
-### Jekyll Themes
+* PS2 programming: Treasure Hunt simple videogame
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matteomeli/matteomeli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* An AI program that plays Go
 
-### Support or Contact
+* BenchGL http://webrendering.sourceforge.net/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Professional Project
+
+* Farm Heroes Super Saga
+
+* Farm Heroes
+
+* CSR Classics
+
+* CSR Racing
+
+## Resume
+
+Download my up-to-date resume (https://docs.google.com/document/d/1muXM6M9kqN3bVmMhUh3fF_A9fEMr6FRRkmToSfd0-UU/edit?usp=sharing)[here].
+
+## Other interests
+
+* Kitesurfing
+
+* Skateboarding
+
+* Sailing
+
+* Motorcycling
+
+* Snowboarding
