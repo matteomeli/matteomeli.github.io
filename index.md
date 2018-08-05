@@ -18,7 +18,7 @@ When I am not creating or playing videogames, researching functional programming
 
 * Dynamic Lighting research thesis
 
-* Reeboot: Team project at Abertay University using SOny's Phyre Engine for PS3
+* Reeboot: Team project at Abertay University using Sony's Phyre Engine for PS3
 
 * Physics and Rendering uni project
 
@@ -40,7 +40,7 @@ When I am not creating or playing videogames, researching functional programming
 
 ## Resume
 
-Download my up-to-date resume (https://docs.google.com/document/d/1muXM6M9kqN3bVmMhUh3fF_A9fEMr6FRRkmToSfd0-UU/edit?usp=sharing)[here].
+Download my up-to-date resume [here](https://docs.google.com/document/d/1muXM6M9kqN3bVmMhUh3fF_A9fEMr6FRRkmToSfd0-UU/edit?usp=sharing).
 
 ## Other interests
 
