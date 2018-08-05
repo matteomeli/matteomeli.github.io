@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: Matteo Meli's homepage
-description: An intelligent description will go here
+title: Matteo Meli
+description: Videogames, coding, kitesurfing and pizza
 plugins:
   - jemoji
   - jekyll-seo-tag
