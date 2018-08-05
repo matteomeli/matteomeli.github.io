@@ -3,3 +3,6 @@ title: Matteo Meli's homepage
 description: An intelligent description will go here
 plugins:
   - jemoji
+  - jekyll-seo-tag
+theme: jekyll-theme-cayman
+repository: matteomeli/matteomeli.github.io
