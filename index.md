@@ -8,7 +8,7 @@ Since very young I have always found computers fascinating, videogames in partic
 
 After finishing my studies, I was lucky enough to land a job in NaturalMotion's Boss Alien studio in Brighton, and I could not have entered the game industry in a better place. At Boss Alien I was part of the development team behind hit mobile games such as CSR Racing and CSR Classics, as well as part of other yet unreleased projects. Curently, I work at King London studio, where I have been involved with different projects and worked in some of their multimillion dollars live titles, like Farm Heroes and Farm Heroes Super Saga, as well as participating in the development of shared libraries and engine middleware solving common technical challenges and running functional programming courses and workshops.
 
-When I am not creating or playing videogames, researching functional programming or working on my own projects, you can find me kitesurfing in Camber Sands, riding my Triumph Bonneville T120 or travelling somewhere around the world! Or eating pizza.
+When I am not creating or playing videogames, researching functional programming or working on my own projects, you can find me kitesurfing in Camber Sands, riding my Triumph Bonneville T120 or travelling somewhere around the world! Or eating pizza 🍕
 
 ## Personal Projects
 
