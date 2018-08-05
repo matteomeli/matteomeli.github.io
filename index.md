@@ -26,7 +26,7 @@ When I am not creating or playing videogames, researching functional programming
 
 * An AI program that plays Go
 
-* BenchGL http://webrendering.sourceforge.net/
+* [BenchGL](http://webrendering.sourceforge.net/): A WebGL based rendering framework
 
 ## Professional Project
 
