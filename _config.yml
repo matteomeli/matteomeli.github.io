@@ -6,3 +6,4 @@ plugins:
   - jekyll-seo-tag
 theme: jekyll-theme-cayman
 repository: matteomeli/matteomeli.github.io
+markdown: kramdown

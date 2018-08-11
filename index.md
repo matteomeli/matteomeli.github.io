@@ -1,31 +1,3 @@
-## Professional Project
-
-* Farm Heroes Super Saga
-
-* Farm Heroes
-
-* CSR Classics
-
-* CSR Racing
-
-## Personal Projects
-
-* Glue, a functional programming library for Scala
-
-* Exploring blockchain technology in Scala
-
-* Dynamic Lighting research thesis
-
-* Reeboot: Team project at Abertay University using Sony's Phyre Engine for PS3
-
-* Physics and Rendering uni project
-
-* PS2 programming: Treasure Hunt simple videogame
-
-* An AI program that plays Go
-
-* [BenchGL](http://webrendering.sourceforge.net/): A WebGL based rendering framework
-
 ## Resume
 
 Download my up-to-date resume [here](https://docs.google.com/document/d/1muXM6M9kqN3bVmMhUh3fF_A9fEMr6FRRkmToSfd0-UU/edit?usp=sharing).

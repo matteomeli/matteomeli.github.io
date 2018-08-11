@@ -1,0 +1,12 @@
+<h2 id="professional-projects">{{ include.title }}</h2>
+<ul>
+{% for project in include.projects %}
+  <li>
+    <a href="{{ project.url }}" title="{{ project.name }}">
+      <img src="{{ project.file }}" />
+    </a>
+    <h3>{{ project.name }}</h3>
+    <p>{{ project.caption }}</p>
+  </li>
+{% endfor %}
+</ul>
