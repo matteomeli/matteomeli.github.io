@@ -5,7 +5,7 @@ tagline: A few words about me
 permalink: /about.html
 ---
 
-![](images/Boss_Alien_Matteo.jpg){:.image-right :height="250px" width="250px"}
+![](images/Boss_Alien_Matteo.jpg){:.about-image :height="250px" width="250px"}
 
 Hello folks!
 
