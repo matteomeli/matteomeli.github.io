@@ -11,13 +11,13 @@
   type: professional
 
 - name: CSR Classics
-  caption: NaturalMotion, maker of CSR Racing, delivers another excellent drag-racing experience with CSR Classics. Featuring a streamlined approach to this high-octane sport, CSR Classics is a fast, focused, and highly polished game that lets you collect, restore, and then race dozens of historic cars. Whether you play for just a few minutes a day or race for hours on end, the robust customization and reward system will keep you motivated, while jaw-dropping visuals and authentic engine roars ensure each race is a thrill.
+  caption: NaturalMotion, maker of CSR Racing, delivers another excellent drag-racing experience with CSR Classics. Featuring a streamlined approach to this high-octane sport, CSR Classics is a fast, focused, and highly polished game that lets you collect, restore, and then race dozens of historic cars.
   url: https://itunes.apple.com/us/app/csr-racing/id469369175
   file: images/csr_classics.png
   type: professional
 
 - name: CSR Racing
-  caption: With its console-quality looks and streamlined controls, NaturalMotion’s gorgeous drag racer delivers a deep automotive experience. It starts with more than 85 world-famous cars, each ready to customize to perfection in your quest to rule the streets. From multiplayer matches to smoking rival racing gangs, new challenges wait around every corner. Best of all, CSR Racing's quick, intense contests fit into any gamer’s schedule.
+  caption: With its console-quality looks and streamlined controls, NaturalMotion’s gorgeous drag racer delivers a deep automotive experience. It starts with more than 85 world-famous cars, each ready to customize to perfection in your quest to rule the streets. From multiplayer matches to smoking rival racing gangs, new challenges wait around every corner.
   url: https://itunes.apple.com/us/app/csr-classics/id598603610
   file: images/csr_racing.png
   type: professional
@@ -35,13 +35,12 @@
   type: personal
 
 - name: "MSc/PGDip dissertation: Evolution of lighting techniques in videogames"
-  caption: Dynamic lighting is a key aspect for real time rendering applications such as video games. The performance and efficiency of lighting algorithms is very important as the complexity of virtual scenes is rapidly increasing because of the demand for more realism. This study aims to provide a detailed comparison of traditional lighting techniques, mainly forward rendering, with new alternative techniques, such as deferred shading and light pre-pass rendering. This paper also focuses on some of the disadvantages of deferred shading and improvements promised by light pre-pass rendering. This paper describes the implementation and the tests performed on three renderers based on these rendering algorithms with DirectX 10. It has been found that generally there is not a best technique for all scenarios, hence every context must be carefully analyzed to choose the most suitable rendering method. While deferred shading seems to be the most effective algorithm in most cases, forward rendering is still the fastest by far in simple environments with not too complex scenes and few amounts of light sources. Also, even if light pre-pass rendering results being slightly slower, it adds material flexibility and anti-aliasing support to deferred shading. Finally, some upcoming features of graphics hardware and APIs suggest that, anyways, the best approach for future research might be to solve deferred shading’s issues within the technique itself instead of trying to change it.
-  url: http://youtu.be/MCPJh_HpPb0
+  caption: Dynamic lighting is a key aspect for real time rendering applications such as video games. This study aims to provide a detailed comparison of lighting techniques.
   file: images/thesis.jpg
   type: personal
 
 - name: Reeboot
-  caption: "Team project at Abertay University using Sony's Phyre Engine for PS3. Worked in a small team to create a PC/PS3 game powered by PhyreEngine’s game engine. I was one of the 3 programmers in the development team. Because of my experience with C++ and Sony’s PhyreEngine, I was chosen as lead programmer for the team. Some of the features of the game I worked on are: player movement, input management, sound management, physics support, third person camera managment (including collision avoidance) and generally code supervision."
+  caption: Team project at Abertay University using Sony's Phyre Engine for PS3. Worked in a small team to create a PC/PS3 game powered by PhyreEngine’s game engine.
   file: images/reeboot.png
   type: personal
 
@@ -52,7 +51,7 @@
   type: personal
 
 - name: PS2 Programming Course Demo
-  caption: This game was created to demonstrate understanding of PlayStation2 platform and Vector Unit programming
+  caption: This game was created to demonstrate understanding of PlayStation2 platform and Vector Unit programming.
   file: images/ps2_treasure_hunters.jpg
   type: personal
 

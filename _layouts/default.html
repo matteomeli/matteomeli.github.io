@@ -26,11 +26,8 @@
   </head>
   <body>
 
-    {% if page.layout == 'home' or page.layout == 'projects' %}
+    {% if page.layout == 'home' or page.layout == 'blog' %}
       {% assign page-tagline = site.description | default: site.github.project_tagline | escape %}
-    {% endif %}
-    {% if page.layout == 'projects' %}
-      {% assign page-tagline = page.tagline | escape %}
     {% endif %}
     {% if page.layout == 'page' %}
       {% assign page-tagline = page.tagline | escape %}

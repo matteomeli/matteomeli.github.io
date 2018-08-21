@@ -2,4 +2,4 @@
 layout: home
 ---
 
-This is the home page of Matteo Meli's website.
+The following list contains contains the most relevant projects I have worked on, both professionally and in my own time or during my university studes.

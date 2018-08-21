@@ -42,6 +42,14 @@ $on-laptop:        54em !default;
   font-size: $base-font-size * $ratio;
 }
 
+@mixin vertical-align($position: relative) {
+  position: $position;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
 // Import partials.
 @import 
   "blog/base",

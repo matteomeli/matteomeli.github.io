@@ -140,3 +140,60 @@
 .projects ul {
   list-style: none;
 }
+
+.projects li {
+  margin-bottom: 20px;
+}
+
+.projects li a {
+  display: block;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  border-radius: 5px;
+
+  @extend %clearfix;
+
+  &,
+  &:visited,
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+  }
+}
+
+.project-left-col, .project-right-col {
+  float: left;
+  min-height: 150px;
+}
+
+.project-left-col {
+  padding: 10px;
+  width: 25%;
+}
+
+.project-right-col {
+  width: 75%;
+}
+
+.project-left-col img {
+  width: 150px;
+}
+
+.project-right-col p {
+  color: $body-text-color;
+
+  &,
+  &:visited,
+  &:hover {
+    text-decoration: none;
+    color: $body-text-color;
+  }
+}
+
+

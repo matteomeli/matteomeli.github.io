@@ -6,27 +6,14 @@ layout: default
 
   {{ content }}
 
-  {% if site.posts.any? %}
-    <h2>Latest Posts</h2>
+  <h2>Professional Projects</h2>
 
-    <div>&nbsp;</div>
+  {% assign professional_projects = site.data.projects | where: "type", "professional" %}
+  {% include projects.html projects=professional_projects title="Professional Projects" %}
 
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
+  <h2>Personal Projects</h2>
 
-          {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-          </h2>
-
-          <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
-
-        </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
+  {% assign personal_projects = site.data.projects | where: "type", "personal" %}
+  {% include projects.html projects=personal_projects title="Personal Projects" %}
 
 </div>

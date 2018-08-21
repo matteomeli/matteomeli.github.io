@@ -3,10 +3,14 @@
   {% for project in include.projects %}
     <li>
       <a href="{{ project.url }}" title="{{ project.name }}">
-        <img src="{{ project.file }}" />
+        <div class="project-left-col">
+          <img src="{{ project.file }}" />
+        </div>
+        <div class="project-right-col">
+          <h4>{{ project.name }}</h4>
+          <p style="font-size: 1rem;">{{ project.caption }}</p>
+        </div>
       </a>
-      <h3>{{ project.name }}</h3>
-      <p>{{ project.caption }}</p>
     </li>
   {% endfor %}
   </ul>
