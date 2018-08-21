@@ -40,7 +40,7 @@
       {% include site-header.html %}
       <h1 class="project-name">{{ page-title }}</h1>
       <h2 class="project-tagline">{{ page-tagline }}</h2>
-      {% if site.github.is_project_page and page.layout == 'home' %}
+      {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
