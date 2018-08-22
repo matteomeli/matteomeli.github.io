@@ -7,3 +7,4 @@ plugins:
 theme: jekyll-theme-cayman
 repository: matteomeli/matteomeli.github.io
 markdown: kramdown
+google_analytics: UA-2654146-3
