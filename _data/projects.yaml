@@ -1,3 +1,9 @@
+- name: Hyper Scape
+  caption: Hyper Scape is a free-to-play first-person shooter battle royale game developed by Ubisoft Montreal and published by Ubisoft for Microsoft Windows, PlayStation 4 and Xbox One. The game is notable for its integration with video game live streamers which allows viewers on Twitch to affect the outcome of a match. Engage in close-quarters, fast-paced and vertical matches to become the next global Battle Royale superstar.
+  url: https://www.ubisoft.com/en-gb/game/hyper-scape
+  file: images/hyperscape.jpg
+  type: professional
+
 - name: Farm Heroes Super Saga
   caption: These Cropsies are not big, they’re SUPER! Match your way across heaps of levels full of Farmtastic fun, plus new game modes!
   url: https://king.com/game/farmheroessupersaga
